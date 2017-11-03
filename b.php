@@ -6,5 +6,5 @@
  * Time: 10:59
  */
 
-echo 'bc';
-echo 'de';
+echo 'bca';
+echo 'dea';
