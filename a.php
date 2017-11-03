@@ -8,7 +8,7 @@
 
 
 phpinfo();
-echo 'aca';
+echo 'ada';
 echo 'bbb';
 echo 'ccc';
 echo 'ddd';
