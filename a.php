@@ -9,3 +9,4 @@
 
 phpinfo();
 echo 'aba';
+echo 'bbb';
