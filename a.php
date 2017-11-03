@@ -10,3 +10,5 @@
 phpinfo();
 echo 'aca';
 echo 'bbb';
+echo 'ccc';
+echo 'ddd';
