@@ -8,3 +8,4 @@
 
 
 phpinfo();
+echo 'aaa';
