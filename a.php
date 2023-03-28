@@ -11,3 +11,5 @@ echo 'adaagf';
 echo 'bbbagf';
 echo 'cccagf';
 echo 'dddagf';
+
+header("location:www.o-hr.com")
